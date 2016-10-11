@@ -1,6 +1,3 @@
-
-
-
 import org.apache.http.HttpResponse;
 import org.apache.http.client.methods.HttpGet;
 import org.apache.http.impl.client.DefaultHttpClient;
@@ -79,6 +76,5 @@ public class TestiTunesSearchAPI {
 	/*
 	 * test cases for other 3 parameters are very similar with above test cases.
 	 */
-
 
 }
